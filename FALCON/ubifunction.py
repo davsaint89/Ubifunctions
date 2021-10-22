@@ -105,3 +105,4 @@ payload = calculate_average(metrix_devices)
 print(send_data_to_new_device(payload, DEV_LABEL))
 
 #print(get_last_value_from_variable("arduinonano", "temperatura1"))
+

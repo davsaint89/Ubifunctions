@@ -78,3 +78,4 @@ def create_request(url, headers, attempts, request_type, data=None):
         print("[ERROR] There was an error with the request, details:")
         print(e)
         return None
+
